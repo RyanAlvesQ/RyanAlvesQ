@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm from São Paulo (Brazil) <br><br>- 📚 I'm studying Cross-Platform Software Development (6th semester)</p>
+<p align="left">I'm from São José dos Campos (São Paulo) <br><br>- 📚 I'm studying Cross-Platform Software Development (6th semester)</p>
 
 ###
 
